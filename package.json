@@ -26,6 +26,7 @@
     "dependencies": {
         "send": "*",
         "connect": "*",
+        "web-terminal": "*",
         "socket.io": "*",
         "commander": "*",
         "lodash": "*"
